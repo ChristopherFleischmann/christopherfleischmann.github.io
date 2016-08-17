@@ -18,8 +18,6 @@
   text-align: center;
 }
 
-
-
 .c-page__subtitle{
   text-decoration: none;
   margin-top: 0px;
@@ -30,10 +28,6 @@
   margin-top: 1rem;
   text-decoration: none;
   font-size: 22px;
-}
-
-.c-page-resumeItem{
-
 }
 
 //bio or about page
@@ -70,5 +64,35 @@
   .c-page-bio-image{
     height: 30vh;
     width: 100%;
+  }
+
+  .c-page__title{
+    text-decoration: underline;
+    font-size: 24px;
+  }
+
+  .c-page__title-center{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 24px;
+  }
+
+  .c-page__subtitle{
+    font-size: 14px;
+  }
+
+  .c-page__text {
+    font-size: 18px;
+  }
+
+  .c-bio__title{
+    margin-top: 5vh;
+    text-decoration: none;
+    font-size: 24px;
+  }
+
+  .c-bio__text {
+    text-decoration: none;
+    font-size: 18px;
   }
 }
