@@ -7,4 +7,5 @@ git add -A
 git commit
 echo "Pushing Data"
 git push origin gh-pages
+git subtree push --prefix dist origin gh-pages
 echo "Process Complete"
