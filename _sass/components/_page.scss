@@ -1,0 +1,74 @@
+//Basic page items
+.c-color {
+    background-color: $primary;
+}
+
+.c-page-content {
+  height: 80vh;
+  min-height: 400px;
+  display: flex;
+}
+
+.c-page__title{
+  text-decoration: underline;
+}
+
+.c-page__title-center{
+  text-decoration: underline;
+  text-align: center;
+}
+
+
+
+.c-page__subtitle{
+  text-decoration: none;
+  margin-top: 0px;
+  font-size: 18px;
+}
+
+.c-page__text {
+  margin-top: 1rem;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.c-page-resumeItem{
+
+}
+
+//bio or about page
+.c-bio__title{
+  margin-top: 5vh;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.c-bio__text {
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.c-bio-container-total {
+  width: 100%;
+  height: 50%;
+}
+
+
+.c-page-bio-image{
+  height: 25vh;
+  text-align: center;
+  background-size: contain;
+}
+
+//cursor image
+.cursor{
+  cursor: url('../images/cursor.png'), default;
+}
+
+//Device responsiveness
+@media (max-width: 768px) {
+  .c-page-bio-image{
+    height: 30vh;
+    width: 100%;
+  }
+}
