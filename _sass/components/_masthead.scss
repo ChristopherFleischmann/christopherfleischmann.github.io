@@ -26,25 +26,22 @@
     font-family: $body-font;
 }
 
-// .c-masthead{
-//     height: 80vh;
-//     min-height: 500px;
-//     display: flex;
-// }
+@media (max-width: 768px) {
+  .c-masthead {
+      //background-color: $primary;
+      //height: 100vh;
+      //min-height: 550px;
+      //display: flex;
+      //margin-top: 100px;
+      height: 70vh;
+      min-height: 350px;
+  }
 
-// .c-body-content{
-//     margin:auto;
-//     text-align: center;
-// }
-//
-// .c-body-title {
-//     margin: 0;
-//     text-align: center;
-//     color: $font-color;
-// }
-//
-// .c-body-subtitle {
-//     color: $font-color;
-//     margin: 0;
-//     text-align: center;
-// }
+  .c-body-title {
+      font-size: 24px;
+  }
+
+  .c-body-subtitle {
+      font-size: 20px;
+  }
+}
