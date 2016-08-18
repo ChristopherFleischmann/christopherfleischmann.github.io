@@ -17,3 +17,10 @@ github_username:  ChristopherFleischmann
 
 # Build settings
 markdown: kramdown
+
+limit-posts : 3
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
