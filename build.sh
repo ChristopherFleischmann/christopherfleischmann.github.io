@@ -1,4 +1,4 @@
-tput setaf 1; echo "Building Project"
+echo "Building Project"
 jekyll build
 echo "Status"
 git status
