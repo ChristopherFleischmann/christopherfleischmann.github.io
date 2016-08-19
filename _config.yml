@@ -10,7 +10,7 @@ title: Portfolio
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here.
-baseurl: "/codex" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://christopherfleischmann.github.io" # the base hostname & protocol for your site
 twitter_username: Chris.Flei
 github_username:  ChristopherFleischmann
