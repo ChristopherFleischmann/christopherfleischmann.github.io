@@ -1,6 +1,4 @@
-console.log(TEST);
-
-let b = baffle('.js-text-baffled').start();
+var b = baffle('.js-text-baffled').start();
 b.set ({
   speed: 50,
   characters: 'AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz'
