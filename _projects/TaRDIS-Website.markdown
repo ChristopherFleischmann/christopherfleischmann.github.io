@@ -11,4 +11,4 @@ The newer website was developed in Adobe Muse® and embedded social media conten
 The current website was developed because our team wanted to innovate the way our website worked. I started by developing the structural navigation, and selecting a relevant theme to work with. Then I asked some of the marketing team to help actively in building and designing the rest of the website. Thanks to everyones great ideas and constructive criticism we manages to build a website that was beautiful, content efficient and unique.
 
 Visit the website here:
-<www.team5416.com>
+www.team5416.com
