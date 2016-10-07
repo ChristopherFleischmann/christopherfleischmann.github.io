@@ -3,9 +3,7 @@ layout: post
 title:  "Mayde Creek Robotics Website"
 date:   2016-08-18 10:00:00
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In my senior year, I voluteered to help a nearby high school (Mayde Creek High School) in starting their robotics team. My job is to mentor the students in programming, robot driving, team scouting and web design and development. As of now the team does not have a website nut is currently in the process of building one. The goal of the marketing team is to get one out as soon as possible in order for possible sponsors to learn more about the team.
 
 Visit the website here:
 (Link not available)
