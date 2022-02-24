@@ -8,3 +8,23 @@ layout: default
     <h3 class="c-body-subtitle js-text-baffled">(An aspiring UX/UI designer from Rochester, NY)</h3>
   </div>
 </div>
+
+<div class="home">
+
+  <h1 class="c-page__title js-text-baffled">Projects</h1>
+    <ul class="wrapper__tight">
+      {% for project in site.projects %}
+        <a class="c-post-item__link cursor" target="_blank" href="{{ project.url | prepend: site.baseurl }}">
+          <div class="c-post-item">
+            <li>
+              <span class="c-post-item__meta">{{ project.date | date: "%b %-d, %Y" }}</span>
+              <h2 class="c-post-item__title">
+                 {{ project.title }}
+              </h2>
+              <p class="c-post-item__content">{{project.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+            </li>
+          </div>
+        </a>
+      {% endfor %}
+    </ul>
+</div>
